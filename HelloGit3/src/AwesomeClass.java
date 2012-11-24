@@ -1,5 +1,6 @@
 
 public class AwesomeClass {
 int notmuchhere;
-int netherhere;
+int neitherhere;
+int orhere;
 }
