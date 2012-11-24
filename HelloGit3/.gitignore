@@ -26,3 +26,7 @@ local.properties
 .buildpath
 
 build/
+.settings/
+Stuff/
+.classpath
+.project
